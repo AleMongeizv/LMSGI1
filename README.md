@@ -17,5 +17,6 @@ Link a Wikipedia  [Link](https://www.wikipedia.org/)
 
 
 
-![Messi chikito](https://pbs.twimg.com/media/FkbNNUYXkAMIn3F.jpg)
+![Messi chikito](![image](https://github.com/AleMongeizv/LMSGI1/assets/145746962/a1f90ca1-448e-4adb-a69f-b4d0da3bfc8e)
+)
 
