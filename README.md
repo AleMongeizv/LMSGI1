@@ -12,5 +12,5 @@ En este repositorio vamos a almacenar los ejercicios del modulo
 - Elemento de lista 2
 - Elemento de lista 3
 
-Link a Wikipedia  [Link](www.wikipedia.org)
+Link a Wikipedia  [Link](https://www.wikipedia.org/)
 
