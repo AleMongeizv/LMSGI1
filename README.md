@@ -20,3 +20,7 @@ Link a Wikipedia  [Link](https://www.wikipedia.org/)
 ![image](https://github.com/AleMongeizv/LMSGI1/assets/145746962/a1f90ca1-448e-4adb-a69f-b4d0da3bfc8e)
 
 
+|Columna 1|Columna 2|
+|---------|---------|
+|   PEZ   | LANGOSTA |
+|   OSO   | IGUANA  |
