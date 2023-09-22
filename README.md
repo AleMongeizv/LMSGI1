@@ -13,5 +13,5 @@ En este repositorio vamos a almacenar los ejercicios del modulo
 - Elemento de lista 3
 
 Link a Wikipedia  [Link](https://www.wikipedia.org/)
-¡[Messi chikito](https://pbs.twimg.com/media/FkbNNUYXkAMIn3F.jpg)
+[¡[Messi chikito](https://pbs.twimg.com/media/FkbNNUYXkAMIn3F.jpg)]
 
