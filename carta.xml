@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pelicula> Mar adentro
+    <director> Alejandro Amenábar</director>
+    <actores>
+        <actor>
+             <papel>protagonista</papel>
+             <nombre> Javier Bardem</nombre>
+        </actor>
+        <actor>
+             <papel>secundario</papel>
+             <nombre>Celso Bugallo</nombre>
+        </actor>
+    </actores>
+</pelicula>
