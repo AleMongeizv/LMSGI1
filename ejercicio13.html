@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>PIZZERIA ECECE</h1>
+
+<p>Para completar el pedido, por favor rellene este formulario.</p>
+
+<form action="/action_page.php">
+  <fieldset>
+    <legend>Datos personales:</legend>
+    <label for="nombre">Nombre:</label><br>
+    <input type="text" id="nombre" name="nombre" value=" "><br>
+    <label for="apellido">Apellidos:</label><br>
+    <input type="text" id="apellido" name="apellido" value=" "><br>
+	<label for="domicilio">Domicilio:</label><br>
+    <input type="text" id="domicilio" name="domicilio" value=" "><br>
+    <label for="localidad">Localidad:</label><br>
+    <input type="text" id="localidad" name="localidad" value=" "><br>
+    <label for="cp">Codigo Postal:</label><br>
+    <input type="text" id="cp" name="cp" value=" "><br>
+    <label for="telefono">Localidad:</label><br>
+    <input type="text" id="telefono" name="telefono" value=" "><br>
+  </fieldset>
+  
+  
+  <fieldset>
+  <legend>Opciones de entrega</legend>
+  <form>
+  <input type="radio" id="local" name="entrega" value="local">
+  <label for="local">Entrega en el local</label><br>
+  <input type="radio" id="casa" name="entrega" value="casa">
+  <label for="casa">Entrega en su casa</label><br>
+  </form>
+  </fieldset>
+  
+  
+  <fieldset>
+  <legend>¿Desea recibir ofertas e informacion?</legend>
+  <form>
+  <input type="checkbox" id="email" name="email" value="email">
+  <label for="email"> Deseo recibir la informacion y/u ofertas por correo electronico</label><br>
+  <input type="checkbox" id="correo" name="correo" value="correo">
+  <label for="correo"> Deseo recibir la informacion y/u ofertas por correo convencional</label><br>
+  <input type="checkbox" id="no" name="no" value="no">
+  <label for="no"> No deseo recibir informacion y/u ofertas de ningun tipo</label><br>
+  </form>
+  </fieldset>
+  
+  
+  <fieldset>
+  <legend>Elija la pizza a su gusto</legend>
+  <form>
+  <label for="tamaño">Elija el tamaño de su pizza:</label>
+  <select id="tamaño" name="tamaño">
+    <option value="pequeña">Pequeña</option>
+    <option value="mediana">Mediana</option>
+    <option value="grande">Grande</option>
+    <option value="familiar">Familiar</option>
+  </select>
+  </form><br>
+ 
+  <form>
+  <label for="contenido">Choose a car:</label><br>
+  <select id="contenido" name="ingredientes" size="5" multiple>
+    <option value="volvo">Salsa de tomate</option>
+    <option value="saab">Salsa barbacoa</option>
+    <option value="fiat">Queso</option>
+    <option value="audi">Queso de cabra</option>
+    <option value="audi">Burrata</option>
+    <option value="audi">Queso roquefort</option>
+    <option value="audi">Pollo</option>
+    <option value="audi">Pollo frito</option>
+    <option value="audi">Carne de kebab</option>
+    <option value="audi">Jamon</option>
+    <option value="audi">Canónigos</option>
+    <option value="audi">Nachos</option>
+    <option value="audi">Jamon York</option>
+    <option value="audi">Bacon Bits</option>
+    <option value="audi">Piña</option>
+    <option value="audi">Bacon</option>
+    <option value="audi">Buffalo chicken</option>
+  </select><br><br>
+  <input type="submit">
+  </form>
+  
+  <form>
+  <label for="contenido">Deje aqui las sugerencias que tenga</label><br>
+  <textarea name="sugerencia" rows="10" cols="30"></textarea>
+  <br><br>
+  </form>
+  
+   </fieldset>
+</form>
+<input type="submit" value="Enviar">
+</body>
+</html>
+
