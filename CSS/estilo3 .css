@@ -1,0 +1,7 @@
+div .destacado {
+    color: red;
+}
+
+p div .destacado {
+    color: blue;
+}
