@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: #f0f0f0;
+  }
+
+  p {
+    border: 2px solid black;
+    color: blue;
+    padding: 10px;
+    margin: 5px;
+  }
+
+  p:nth-child(2), p:nth-child(4), p:nth-child(6) {
+    background-color: yellow;
+  }
+
+  p:nth-child(6) {
+    font-size: 2em;
+  }
