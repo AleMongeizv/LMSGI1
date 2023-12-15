@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+p {
+    border: 5px solid;
+    padding: 10px; /* Valor inicial del relleno */
+    margin-bottom: 20px;
+}
+
+#parrafo1 {
+    background-color: #ff9999;
+    margin: 0;
+    padding: 0; /* Relleno inicial de 0px */
+}
+
+#parrafo2 {
+    background-color: #99ff99;
+    margin: 5px;
+    padding: 5px; /* Relleno de 5px */
+}
+
+#parrafo3 {
+    background-color: #9999ff;
+    margin: 0;
+    padding: 20px; /* Relleno de 20px */
+}

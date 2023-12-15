@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-size: 16px; /* Tamaño de letra M estándar */
+}
+
+.capa {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+}
+
+#capa1 {
+    width: 50%;
+    border: 2px solid black;
+    font-size: 100%;
+}
+
+#capa2 {
+    width: 33.33%;
+    border: 2px solid red;
+    font-size: 120%; /* 20% más grande que el tamaño de letra M estándar */
+}
+
+#capa3 {
+    width: 25%;
+    border: 2px solid blue;
+    font-size: 80%; /* 20% más pequeño que el tamaño de letra M estándar */
+}
